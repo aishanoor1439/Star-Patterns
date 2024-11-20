@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Star Patterns\Star Patterns\bin\Debug\Star Patterns.exe.config
+C:\Users\DELL\source\repos\Star Patterns\Star Patterns\bin\Debug\Star Patterns.exe
+C:\Users\DELL\source\repos\Star Patterns\Star Patterns\bin\Debug\Star Patterns.pdb
+C:\Users\DELL\source\repos\Star Patterns\Star Patterns\obj\Debug\Star Patterns.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Star Patterns\Star Patterns\obj\Debug\Star Patterns.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Star Patterns\Star Patterns\obj\Debug\Star Patterns.exe
+C:\Users\DELL\source\repos\Star Patterns\Star Patterns\obj\Debug\Star Patterns.pdb
